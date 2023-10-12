@@ -1,9 +1,23 @@
 
+  @import url('https://fonts.googleapis.com/css2?family=Agdasima&family=Inconsolata&family=Quicksand:wght@300;400&display=swap');
+
 
 * {
+  font-family: 'Quicksand', sans-serif;
   box-sizing: border-box;
-  padding: 0;
-  margin: 0;
+  padding: 5;
+  margin: 5;
+
+}
+
+
+nav {
+gap:10px;
+}
+
+h2 {
+
+color:cadetblue;
 }
 
 html,

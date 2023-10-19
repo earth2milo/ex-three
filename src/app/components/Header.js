@@ -1,10 +1,10 @@
-"use client"
+"use client";
 
 import styles from "./WeatherCard.module.css";
 import Link from "next/link"
 const Header = () => (
-    <header classname={styles.header}>
-        <nav classname={styles.nav}>
+    <header>
+        <nav>
             <Link href="/Tokyo">Tokyo</Link>
             <Link href="/Boston">Boston</Link>
             <Link href="/Beijing">Beijing</Link>

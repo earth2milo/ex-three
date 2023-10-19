@@ -1,0 +1,38 @@
+.WeatherCardWrapper {
+    border:black solid 10px;
+    margin:10px;
+    display:table-row;
+    width:1fr;
+
+}
+
+.WeatherCardImage {
+width:300vw;
+height:10vw;
+margin:5px; 
+}
+
+.WeatherCardImage svg {
+height:5em;
+}
+
+.weatherText {
+margin:5px;   
+}
+
+.WeatherCardDetails h2 {
+
+top:-10px;
+font-size:xx-large;
+
+ 
+}
+
+
+.WeatherCardDetails p {
+font-size:2em;
+color:blanchedalmond;
+}
+
+
+
